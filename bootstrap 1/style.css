@@ -6,7 +6,6 @@
 font-family: 'Open Sans', sans-serif;
 font-family: 'Poppins', sans-serif; */
 
-
 .form-control {
     width: 35%; 
     height: 40px;
@@ -24,7 +23,6 @@ font-family: 'Poppins', sans-serif; */
     color: red !important;
     cursor: pointer;
 }
-
 
 .bg {
     background: url('./image/bg-image.jpg');
@@ -45,11 +43,6 @@ font-family: 'Poppins', sans-serif; */
     opacity: 0.7;
 }
 
-/* .message {
-    width: 100%;
-    height: 10%;
-} */
-
 .z {
     z-index: 100;
 }
@@ -58,18 +51,3 @@ font-family: 'Poppins', sans-serif; */
     background-color: #f3f9fd;
 }
 
-/* .test-1 {
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    
-} 
-
-.test-2 {
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 30px;
-    width: 30px;
-    
-}  */
